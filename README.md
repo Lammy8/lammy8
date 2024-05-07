@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a second year uni student, studying a dual degree of Engineering and IT! Looking at Software Eng and Cyber Security.
+
 
 <!--
 **Lammy8/lammy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
