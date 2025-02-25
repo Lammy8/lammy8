@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a second year uni student, studying a dual degree of Engineering and IT! Looking at Software Eng and Cyber Security.
+I'm a third year uni student, studying a dual degree of Engineering and IT! Looking at Software Eng and Cyber Security.
 Currently grinding assignemnts, ......woo!!
 
 <!--
